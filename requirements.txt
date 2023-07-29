@@ -3,5 +3,6 @@ keras
 opencv-python 
 streamlit
 opencv-python
+opencv-python-headless
 numpy
 pandas
